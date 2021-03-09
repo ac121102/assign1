@@ -1,0 +1,55 @@
+
+{
+  "data": [
+    {
+      "question": "What is the QS ranking of IIT Jodhpur in 2020 ?",
+      "choices": ["65", "25", "53", "50"],
+      "answer": "53"
+    },
+    {
+      "question": "What is the pincode of IIT Jodhpur ?",
+      "choices": ["342037", "342016", "342009", "342023"],
+      "answer": "342037"
+    },
+    {
+      "question": "Which city is the pub captial of India?",
+      "choices": ["Delhi", "Bombay", "Pune", "Banglore"],
+      "answer": "Banglore"
+    },
+    {
+      "question": "Which city is the fashion capital of India ?",
+      "choices": ["Banglore", "Bombay", "Pune", "Chennai"],
+      "answer": "Pune"
+    },
+    {
+      "question": "IIT jodhpur campus occupies ___ acres ?",
+      "choices": ["850", "852", "853", "800"],
+      "answer": "852"
+    },
+    {
+      "question": "Which city is called the pink city ?",
+      "choices": ["Jaipur", "Jodhpur", "Surat", "Nagpur"],
+      "answer": "Jaipur"
+    },
+    {
+      "question": "What city is called the blue city ?",
+      "choices": ["Jodhpur", "Jaipur", "Ahemdabad", "Patna"],
+      "answer": "Jodhpur"
+    },
+    {
+      "question": "What is the faculty strength of IIT Jodhpur ?",
+      "choices": ["123", "86", "155", "157"],
+      "answer": "157"
+    },
+    {
+      "question": "Who is the director of IIT Jodhpur ?",
+      "choices": ["Dr. V. Ramgopal Rao", "Dr. Santanu Chaudhury", "Dr. Mayank Vatsa", "Dr. Sarit Kumar Das"],
+      "answer": "Dr. Santanu Chaudhury"
+    },
+    {
+      "question": "You liked the quiz app ?",
+      "choices": ["Yes", "No", "Maybe", "Not at all"],
+      "answer": "Yes"
+    }
+  ]
+}
