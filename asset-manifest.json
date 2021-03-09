@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/assign1/static/css/main.ec614039.chunk.css",
+    "main.js": "/assign1/static/js/main.7050c444.chunk.js",
+    "main.js.map": "/assign1/static/js/main.7050c444.chunk.js.map",
+    "runtime-main.js": "/assign1/static/js/runtime-main.0b4378c2.js",
+    "runtime-main.js.map": "/assign1/static/js/runtime-main.0b4378c2.js.map",
+    "static/css/2.f7456d52.chunk.css": "/assign1/static/css/2.f7456d52.chunk.css",
+    "static/js/2.74745ca5.chunk.js": "/assign1/static/js/2.74745ca5.chunk.js",
+    "static/js/2.74745ca5.chunk.js.map": "/assign1/static/js/2.74745ca5.chunk.js.map",
+    "static/js/3.5e7b3713.chunk.js": "/assign1/static/js/3.5e7b3713.chunk.js",
+    "static/js/3.5e7b3713.chunk.js.map": "/assign1/static/js/3.5e7b3713.chunk.js.map",
+    "index.html": "/assign1/index.html",
+    "static/css/2.f7456d52.chunk.css.map": "/assign1/static/css/2.f7456d52.chunk.css.map",
+    "static/css/main.ec614039.chunk.css.map": "/assign1/static/css/main.ec614039.chunk.css.map",
+    "static/js/2.74745ca5.chunk.js.LICENSE.txt": "/assign1/static/js/2.74745ca5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4378c2.js",
+    "static/css/2.f7456d52.chunk.css",
+    "static/js/2.74745ca5.chunk.js",
+    "static/css/main.ec614039.chunk.css",
+    "static/js/main.7050c444.chunk.js"
+  ]
+}
