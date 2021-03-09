@@ -6,7 +6,7 @@ Link - https://Kartik-3004.github.io/assign1
 
 ## Steps to run locally
 ```
-git clone [https://github.com/Kartik-3004/assign1.git](https://github.com/Kartik-3004/assign1.git)
+git clone https://github.com/Kartik-3004/assign1.git
 cd assign1
 npm install
 npm start
